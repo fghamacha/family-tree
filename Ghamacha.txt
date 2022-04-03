@@ -1,6 +1,6 @@
 Zayed GHAMACHA + Jamila ZIDI 
  n: Notes line(s), optional
- c: Fathi GHAMACHA, MAnsour GHAMACHA
+ c: Fathi GHAMACHA, Mansour GHAMACHA, Fatiha GHAMACHA
 Zayed GHAMACHA
  l: 1920-2021
  p: homer.jpg
