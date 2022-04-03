@@ -6,7 +6,7 @@ Zayed GHAMACHA
  p: homer.jpg
  n: Patissier à Anaba en Algerie
 Fathi GHAMACHA
- l:1965
+ l: 1965
  n: Technicien supérieur en électronique
 Fathi GHAMACHA + Souad Zidi
   c: Fahmi GHAMACHA, Ibrahim GHAMACHA, Asma GHAMACHA, Seyma GHAMACHA
