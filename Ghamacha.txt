@@ -1,7 +1,15 @@
 Zayed GHAMACHA + Jamila ZIDI 
  n: Notes line(s), optional
- c: Fathi GHAMACHA, Mansour GHAMACHA, Fatiha GHAMACHA
+ c: Fatiha GHAMACHA, Zakia GHAMACHA, Rafika GHAMACHA, Fathi GHAMACHA, Afef GHAMACHA, Mansour GHAMACHA, Saida GHAMACHA
 Zayed GHAMACHA
  l: 1920-2021
  p: homer.jpg
  n: Patissier à Anaba en Algerie
+Fathi GHAMACHA
+ l:1965
+ n: Technicien supérieur en électronique
+Fathi GHAMACHA + Souad Zidi
+  c: Fahmi GHAMACHA, Ibrahim GHAMACHA, Asma GHAMACHA, Seyma GHAMACHA
+Fahmi GHAMACHA
+ l: 1993
+ n Manager en ingénieurie informatique
