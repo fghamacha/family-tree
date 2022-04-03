@@ -1,6 +1,6 @@
-Homer Simpson + Marge Simpson
- c: Bart Simpson#older
- n: blah blah blah blah blah
+Zayed GHAMACHA + Jamila ZIDI
+ c: Fathi GHAMACHA #older
+ n: Technicien supérieur en électronique
 Homer Simpson
  n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
  n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
