@@ -12,4 +12,8 @@ Fathi GHAMACHA + Souad Zidi
   c: Fahmi GHAMACHA, Ibrahim GHAMACHA, Asma GHAMACHA, Seyma GHAMACHA
 Fahmi GHAMACHA
  l: 1993
- n Manager en ingénieurie informatique
+ n: Manager en ingénieurie informatique
+Mansour GHAMACHA + Kaouther BOUBAHRi
+ c: Haythem GHAMACHA, Mohamed Zied GHAMACHA
+Mansour GHAMACHA
+ l: 1970
