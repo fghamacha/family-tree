@@ -1,11 +1,3 @@
 Zayed GHAMACHA + Jamila ZIDI
  c: Fathi GHAMACHA #older
  n: Technicien supérieur en électronique
-Zayed GHAMACHA
- n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
- n: Pâtissier en Algerie
-Jamila ZIDI
- n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
-Fathi GHAMACHA #older
- l: 1965-
-Fathi GHAMACHA#older + Souad ZIDI
